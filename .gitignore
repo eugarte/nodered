@@ -1,0 +1,3 @@
+.node-red/
+node_modules/
+*.log
